@@ -2,6 +2,10 @@ Changelog for CAB-IS-DarkAge
 
 -----------------------------------------------------
 
+1.3
+
+Added the Atlas III (listed as atlas3 in files)
+
 1.2
 
 Updated the Lament Redux 

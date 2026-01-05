@@ -44,3 +44,7 @@ OnlyQ, Transient
 Models:
 Eris
 Hel
+
+IonRaptor and Transient
+Models:
+Atlas III (atlas3)

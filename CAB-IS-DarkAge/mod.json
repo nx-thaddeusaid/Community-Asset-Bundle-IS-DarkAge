@@ -394,7 +394,28 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/diomede/chrprfweap_diomede_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_diomedebase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/diomede/chrprfweap_diomede_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_diomedebase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/diomede/chrprfweap_diomede_righttorso_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_diomedebase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/diomede/chrprfweap_diomede_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_diomedebase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/diomede/chrprfweap_diomede_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_diomedebase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/atlas3/chrPrfComp_atlas3_simgame.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_atlas3base-001.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/atlas3/chrPrfComp_atlas3_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/atlas3/chrPrfComp_atlas3_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_rightarm_blank_bh1.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_righttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_lefttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/atlas3/chrprfweap_atlas3_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_atlas3base-001" }
 	
     ]
 }
